@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="SistemasLineares.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="49"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="principal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormPrincipal"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="10"/>
+        <CursorPos X="20" Y="74"/>
+        <FoldState Value=" T7EJn T3iW0F1 pkLke0I4 pifjQ062W"/>
+        <UsageCount Value="49"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="solucao.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormSolucao"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="17" Y="39"/>
+        <UsageCount Value="47"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="metodos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="44" Y="8"/>
+        <FoldState Value=" T3S09311 piam10{K]AjP]A}[K4kGoG0{J1X"/>
+        <UsageCount Value="46"/>
+        <Loaded Value="True"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="153" Column="33" TopLine="97"/>
+      </Position1>
+      <Position2>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="195" Column="9" TopLine="78"/>
+      </Position2>
+      <Position3>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="219" Column="17" TopLine="200"/>
+      </Position3>
+      <Position4>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="212" Column="46" TopLine="184"/>
+      </Position4>
+      <Position5>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="243" Column="21" TopLine="221"/>
+      </Position5>
+      <Position6>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="29" Column="23" TopLine="10"/>
+      </Position6>
+      <Position7>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="313" Column="17" TopLine="285"/>
+      </Position7>
+      <Position8>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="13" Column="73"/>
+      </Position8>
+      <Position9>
+        <Filename Value="principal.pas"/>
+        <Caret Line="90" Column="17" TopLine="71"/>
+      </Position9>
+      <Position10>
+        <Filename Value="principal.pas"/>
+        <Caret Line="139" Column="19" TopLine="120"/>
+      </Position10>
+      <Position11>
+        <Filename Value="principal.pas"/>
+        <Caret Line="216" Column="22" TopLine="198"/>
+      </Position11>
+      <Position12>
+        <Filename Value="principal.pas"/>
+        <Caret Line="90" Column="25" TopLine="71"/>
+      </Position12>
+      <Position13>
+        <Filename Value="principal.pas"/>
+        <Caret Line="139" Column="27" TopLine="120"/>
+      </Position13>
+      <Position14>
+        <Filename Value="principal.pas"/>
+        <Caret Line="224" Column="36" TopLine="198"/>
+      </Position14>
+      <Position15>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="318" Column="46" TopLine="296"/>
+      </Position15>
+      <Position16>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="324" Column="24" TopLine="311"/>
+      </Position16>
+      <Position17>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="266" Column="11" TopLine="179"/>
+      </Position17>
+      <Position18>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="324" Column="39" TopLine="306"/>
+      </Position18>
+      <Position19>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="8" Column="35"/>
+      </Position19>
+      <Position20>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="271" Column="3" TopLine="259"/>
+      </Position20>
+      <Position21>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="305" Column="7" TopLine="292"/>
+      </Position21>
+      <Position22>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="320" Column="80" TopLine="292"/>
+      </Position22>
+      <Position23>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="308" TopLine="292"/>
+      </Position23>
+      <Position24>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="269" Column="16" TopLine="263"/>
+      </Position24>
+      <Position25>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="494" Column="37" TopLine="476"/>
+      </Position25>
+      <Position26>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="672" Column="34" TopLine="668"/>
+      </Position26>
+      <Position27>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="673" Column="21" TopLine="670"/>
+      </Position27>
+      <Position28>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="711" Column="3" TopLine="676"/>
+      </Position28>
+      <Position29>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="751" Column="17" TopLine="718"/>
+      </Position29>
+      <Position30>
+        <Filename Value="metodos.pas"/>
+        <Caret Line="27" Column="15" TopLine="16"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
