@@ -1,6 +1,6 @@
 # Métodos Numéricos Computacionais
 
-Programas que resolvem diversos problemas da computação como derivadas, integrais, interpolação, entre outros, e desenvolvidos durante o ano de 2021 para a disciplina de Métodos Numéricos Computacionais utilizando Pascal.
+Programas que resolvem diversos problemas como derivadas, integrais, interpolação, entre outros, e desenvolvidos durante o ano de 2021 para a disciplina de Métodos Numéricos Computacionais utilizando Pascal.
 
 ## Imagens das Aplicações
 
